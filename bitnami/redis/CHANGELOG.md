@@ -1,8 +1,21 @@
 # Changelog
 
-## 21.1.3 (2025-05-16)
+## 21.1.6 (2025-05-22)
 
-* [bitnami/redis] :zap: :arrow_up: Update dependency references ([#33749](https://github.com/bitnami/charts/pull/33749))
+* [bitnami/redis] :zap: :arrow_up: Update dependency references ([#33825](https://github.com/bitnami/charts/pull/33825))
+
+## <small>21.1.5 (2025-05-20)</small>
+
+* [bitnami/redis] :zap: :arrow_up: Update dependency references (#33790) ([2f87f3a](https://github.com/bitnami/charts/commit/2f87f3a604a31ee82cc5adbada56e351a87ace05)), closes [#33790](https://github.com/bitnami/charts/issues/33790)
+
+## <small>21.1.4 (2025-05-20)</small>
+
+* [bitnami/redis] :zap: :arrow_up: Update dependency references (#33767) ([79cda7f](https://github.com/bitnami/charts/commit/79cda7f9eab704b4122b52d409d7eb36a991915c)), closes [#33767](https://github.com/bitnami/charts/issues/33767)
+
+## <small>21.1.3 (2025-05-16)</small>
+
+* [bitnami/*] Update CNAB tip (#33741) ([2bc74f3](https://github.com/bitnami/charts/commit/2bc74f3f539481ceaa12833c114047583912b748)), closes [#33741](https://github.com/bitnami/charts/issues/33741)
+* [bitnami/redis] :zap: :arrow_up: Update dependency references (#33749) ([efd3a00](https://github.com/bitnami/charts/commit/efd3a002cafbd0177e7493cd050a65e152f813fe)), closes [#33749](https://github.com/bitnami/charts/issues/33749)
 
 ## <small>21.1.2 (2025-05-15)</small>
 
